@@ -1,11 +1,11 @@
 ### I'm a UX Practitioner based in Tulsa, OK, focused on #CivicTech and #DesignForGood. My interests include anything to do with aviation and future transport methods, with an emphasis on how we can create a sustainable way of living on our planet. 
 
-I can assist your work by using my UX skillset to set you up for success **before** you begin expensive development projects or provide UX audits for existing projects, to help identify areas of improvement, to reduce the cost of redevelopment.
+I can assist your work by using my UX skillset to set you up for success _before_ you begin expensive development projects or provide UX audits for existing projects, to help identify areas of improvement, and reduce the cost of redevelopment.
 
 
 
 | UX SKILLS | |
-| :--------------------- | ---------------- |
+| :-------------------- | ---------------- |
 | Stakeholder Interviews| Affinity Mapping |  
 | Heuristic Evaluation  | Journey Mapping  |  
 | Comparitive Analysis  | Empathy Mapping  |   
@@ -16,7 +16,7 @@ I can assist your work by using my UX skillset to set you up for success **befor
 | ContentAnalysis       | Research Roadmap |   
 | User Interviews       | UsabilityTesting |  
 
-| Misc. Web Development Skills   |   
+| OTHER WEBDEV SKILLS   |   
 | ------------------------------ |
 | HTML 5                         |
 | CSS 3                          |
@@ -27,3 +27,5 @@ I can assist your work by using my UX skillset to set you up for success **befor
 | Zeplin                         |
 | Sketch                         |
 | Wireframing                    |
+| Drupal, theming (versions 8-10)     |
+| Drupal, Site Builder versions 7-10) |
