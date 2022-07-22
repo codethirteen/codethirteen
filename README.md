@@ -16,7 +16,7 @@ I can assist your work by using my UX skillset to set you up for success _before
 | ContentAnalysis       | Research Roadmap |   
 | User Interviews       | UsabilityTesting |  
 
-| OTHER WEBDEV SKILLS   |   
+| OTHER SKILLS   |   
 | ------------------------------ |
 | HTML 5                         |
 | CSS 3                          |
