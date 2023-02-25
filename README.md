@@ -1,8 +1,8 @@
-### I'm a UX Practitioner based in Tulsa, OK, focused on #CivicTech and #DesignForGood. My interests include cybersecurity, aviation, and future transportation methods, with an emphasis on how we can create a safe and sustainable way of living on our planet. 
+### I'm a UX leader based in Tulsa, OK, focused on #CivicTech and #DesignForGood. 
 
-I can help set you up for success _before_ you begin expensive development projects. 
+For **new** projects, I can help set you up for success before you start an expensive development project by coaching your team on UX best practices. I'm also available to conduct freelance UX research. 
 
-For existing projects i can conduct UX audits to identify areas for improvement, and reduce the cost of redevelopment.
+For **existing** projects, I can conduct UX audits to identify areas for improvement, and reduce the cost of redevelopment significantly.
 
 
 
