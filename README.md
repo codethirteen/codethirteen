@@ -1,9 +1,6 @@
-### I'm a UX leader based in Tulsa, OK, focused on #CivicTech and #DesignForGood. 
+### I'm a UX leader based in Tulsa, OK, focused on [https://github.com/search?q=%23CivicTech&type=repositories](#CivicTech) and [https://github.com/search?q=%23DesignForGood&type=repositories](#DesignForGood) projects. 
 
-For **new** projects, I can help set you up for success before you start an expensive development project by coaching your team on UX best practices. I'm also available to conduct freelance UX research. 
-
-For **existing** projects, I can conduct UX audits to identify areas for improvement, and reduce the cost of redevelopment significantly.
-
+As a former UX engineer, I am comfortable communicating with Product, UX, as well as engineering teams, to ensure smooth communication across all phases of product development. In my freelance life, I am comfortable taking projects from UX research all the way to coded solutions. 
 
 
 | UX SKILLS | |
@@ -15,8 +12,8 @@ For **existing** projects, I can conduct UX audits to identify areas for improve
 | Task Flow Analysis    | 5-second Test    |   
 | Contextual Inquiry    | Card Sorting     |  
 | Content Analysis      | Tree Testing     |   
-| ContentAnalysis       | Research Roadmap |   
-| User Interviews       | UsabilityTesting |  
+| UX Audits             | Research Roadmap |   
+| User Interviews       | Usability Testing|  
 
 | OTHER SKILLS   |   
 | ------------------------------ |
@@ -29,7 +26,6 @@ For **existing** projects, I can conduct UX audits to identify areas for improve
 | Zeplin                         |
 | Sketch                         |
 | Wireframing                    |
-| Drupal, theming (versions 8-10)     |
-| Drupal, Site Builder versions 7-10) |
+| Prototyping                    |
 
 [![](https://hits.sh/github.com/codethirteen.svg?style=flat-square&label=%E2%A0%80&color=9f9f9f)](https://hits.sh/github.com/codethirteen/)
