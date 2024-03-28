@@ -1,4 +1,4 @@
-### I'm a UX leader based in Tulsa, OK, focused on [https://github.com/search?q=%23CivicTech&type=repositories](#CivicTech) and [https://github.com/search?q=%23DesignForGood&type=repositories](#DesignForGood) projects. 
+### I'm a UX leader based in Tulsa, OK, focused on [#CivicTech](https://github.com/search?q=%23CivicTech&type=repositories) and [DesignForGood](https://github.com/search?q=%23DesignForGood&type=repositories) projects. 
 
 As a former UX engineer, I am comfortable communicating with Product, UX, as well as engineering teams, to ensure smooth communication across all phases of product development. In my freelance life, I am comfortable taking projects from UX research all the way to coded solutions. 
 
